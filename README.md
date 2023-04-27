@@ -1,2 +1,2 @@
 # ValidacionesHTML
-Validaciones aformualrio de HTML, CSS, JS
+Validaciones a formulario de HTML, CSS, JS
